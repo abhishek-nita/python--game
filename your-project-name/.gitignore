@@ -1,0 +1,3 @@
+game_state.jsonl
+echo "game_events.jsonl" >> .gitignorexy
+
